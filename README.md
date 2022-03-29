@@ -10,7 +10,7 @@ This project I have created and analyzed machine learning algorithms in order to
 - Feature selection
 
 and the machine learning algorithms are:
-Linear regression
-Random forest
-Decision tree
-XGBoost
+- Linear regression
+- Random forest
+- Decision tree
+- XGBoost
